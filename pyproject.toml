@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "llm-chat-app"
+version = "0.1.0"
+description = "A chat application using LLM to answer based on documents"
+authors = ["Your Name <youremail@example.com>"]
+license = "MIT"
+[tool.poetry.dependencies]
+python = "^3.10"  # Compatible Python version
+fastapi = "^0.95.1"
+uvicorn = "^0.22.0"
+transformers = "^4.34.0"
+torch = "^2.0.1"  # Replace with a stable version
+pydantic = "^1.10.5"
+numpy = "^1.26.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.3"

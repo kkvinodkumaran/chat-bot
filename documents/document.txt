@@ -1,0 +1,9 @@
+Vimal Jyothi Engineering College (VJEC)
+
+{"Introduction": "Vimal Jyothi Engineering College (VJEC) is a premier educational institution located in Chemperi, Kannur district, Kerala, India. Established in 2002, the college is affiliated with APJ Abdul Kalam Technological University and approved by the All India Council for Technical Education (AICTE). It is managed by  Trust."}
+
+{"Courses Offered": "Undergraduate Programs (B.Tech),Certificate programs,Computer Science and Engineering,Electrical and Electronics Engineering"}
+{"Address of the college": "Vimal Jyothi Engineering College, Chemperi, Kannur District, Kerala, 670632"}
+{"Contact number of the college": "Phone: +91 490 235 5832"}
+{"Placement companies": "Infosys,Wipro,HCL"}
+
